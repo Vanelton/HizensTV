@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 15,
+	"name": "Rede Vida",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",
+	"text": "TV Aberta / Variedades",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Rede Vida",
+	"provided_logo": "",
+	"provided_link": "https://www.redevida.com.br/ao-vivo"
+}
