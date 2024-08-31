@@ -5,7 +5,7 @@
 	"company": "Hizens TV",
 	"logo": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",
 	"text": "TV Aberta / Variedades",
-	"contenturl": "https://www.youtube.com/embed/live_stream?channel=UCfYrK5JU5EznsnK3wQE7iIg&controls=0&autoplay=1",
+	"contenturl": "https://www.youtube.com/embed/live_stream?channel=UCfYrK5JU5EznsnK3wQE7iIg&controls=0&autoplay=1&enablejsapi=1",
 	"youtube": false,
 	"thumbnail": "",
 	"start_time": "0",
