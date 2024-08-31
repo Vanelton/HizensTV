@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 11,
+	"name": "TV Cultura",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/1081px-TV_Cultura.svg.png",
+	"text": "TV Aberta / Variedades",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "TV Cultura UOL Stream",
+	"provided_logo": "",
+	"provided_link": "https://player-tvcultura.stream.uol.com.br"
+}
