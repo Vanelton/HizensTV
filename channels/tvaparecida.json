@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 14,
+	"name": "TV Aparecida",
+	"company": "Hizens TV",
+	"logo": "https://static.wikia.nocookie.net/logopedia/images/5/5a/TV_Aparecida_2017.png/revision/latest?cb=20200205085822",
+	"text": "TV Aberta / Variedades",
+	"contenturl": "https://www.youtube.com/embed/live_stream?channel=UCfYrK5JU5EznsnK3wQE7iIg&controls=0&autoplay=1",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "YouTube: TV Aparecida",
+	"provided_logo": "",
+	"provided_link": "https://www.youtube.com/@tvaparecida"
+}
