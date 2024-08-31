@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 13,
+	"name": "TV Brasil",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/1024px-TV_Brasil_logo_2023.svg.png",
+	"text": "TV Aberta / Variedades",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://tvbrasil-stream.ebc.com.br/chunks.m3u8",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "TV Brasil Play",
+	"provided_logo": "",
+	"provided_link": "https://play.ebc.com.br/tvs"
+}
