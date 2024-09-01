@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 52,
+	"name": "Canal Curta!",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1024px-Logo_of_Curta%21.svg.png",
+	"text": "TV Aberta",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Canal Curta",
+	"provided_logo": "",
+	"provided_link": "#"
+}
