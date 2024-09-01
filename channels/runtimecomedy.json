@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 108,
+	"name": "Runtime Comédia",
+	"company": "Hizens TV",
+	"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
+	"text": "Filmes & Séries",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Runtime",
+	"provided_logo": "",
+	"provided_link": "https://www.runtime.tv/"
+}
