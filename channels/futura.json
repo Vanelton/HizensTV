@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 23,
+	"name": "Futura",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png",
+	"text": "TV Aberta",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/playlist.m3u8",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Canal FDR",
+	"provided_logo": "",
+	"provided_link": "#"
+}
