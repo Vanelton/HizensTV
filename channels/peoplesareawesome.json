@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 128,
+	"name": "Peoples are Awesome",
+	"company": "Hizens TV",
+	"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e55d3f6f2a75879017f1850561af0d1c.webp",
+	"text": "Entretenimento",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://hznsplayer.glitch.me/hizensplayer4.html?video=https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Samsung TV Plus",
+	"provided_logo": "",
+	"provided_link": "https://www.samsung.com/br/tvs/smart-tv/samsung-tv-plus/"
+}
