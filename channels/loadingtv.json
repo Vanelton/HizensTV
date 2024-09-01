@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 168,
+	"name": "Loading TV",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png",
+	"text": "Infantil e Jovem",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Loading TV",
+	"provided_logo": "",
+	"provided_link": "#"
+}
