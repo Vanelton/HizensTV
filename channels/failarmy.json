@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 126,
+	"name": "FailArmy",
+	"company": "Hizens TV",
+	"logo": "https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png",
+	"text": "Entretenimento",
+	"contenturl": "https://player.twitch.tv/?channel=FailArmy&muted=false&parent=hizenstv.vaneltongamedev.com",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "FailArmy",
+	"provided_logo": "",
+	"provided_link": "https://twitch.tv/FailArmy"
+}
