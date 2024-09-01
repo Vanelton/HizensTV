@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 32,
+	"name": "Record News",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1280px-Record_News_logo_2022.svg.png",
+	"text": "Noticias",
+	"contenturl": "https://www.youtube.com/embed/live_stream?channel=UCuiLR4p6wQ3xLEm15pEn1Xw&controls=0&autoplay=1&enablejsapi=1",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "YouTube: Record News",
+	"provided_logo": "",
+	"provided_link": "https://www.youtube.com/@recordnews"
+}
