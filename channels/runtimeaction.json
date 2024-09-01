@@ -1,0 +1,21 @@
+{
+	"content_type": "channel",
+	"id": 104,
+	"name": "Runtime Ação",
+	"company": "Hizens TV",
+	"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+	"text": "Filmes & Séries",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0",
+	"end_time": "0",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Runtime",
+	"provided_logo": "",
+	"provided_link": "https://www.runtime.tv/"
+}
