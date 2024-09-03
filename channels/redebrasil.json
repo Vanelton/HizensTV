@@ -1,1 +1,27 @@
-
+{
+	"content_type": "channel",
+	"id": 21,
+	"name": "Rede Brasil",
+	"company": "Hizens TV",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png",
+	"text": "TV Aberta",
+	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0:22",
+	"end_time": "11:20",
+	"startsec": 0,
+	"hours": 0,
+	"minutes": 0,
+	"seconds": 0,
+	"restart_time": 10000,
+	"provided_name": "Rede Brasil",
+	"provided_logo": "",
+	"provided_link": "https://rbtv.com.br/",
+	"inchannel_logo": false,
+	"inchannel_logo_url": "hizenslogo.png",
+	"inchannel_logo_x": 1104,
+	"inchannel_logo_y": 654,
+	"inchannel_logo_w": 284,
+	"inchannel_logo_h": 63
+}
