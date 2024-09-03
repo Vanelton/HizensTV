@@ -1,11 +1,11 @@
 {
-	"content_type": "channel",
+	"content_type": "channelod",
 	"id": 158,
 	"name": "Cartoon Network",
 	"company": "Hizens TV",
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png",
 	"text": "Infantil e Jovem",
-	"contenturl": "https://hznsplayer.glitch.me/hizensplayer4.html?video=https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/cartoonnetwork_511a418e_65c38ffdbc7569215550fe28dfbc4391af06ce18/playlist.m3u8?sk=def502004f4bade7fa420fa681a27ba10c75b60792e2256f97e196bf2e346a3075c46fd943cad889f97e30b80f0004d95dee8c2531b70a55e59a22d54ce2853ffda60751ea24c9fd2917b828e203aaac2cc40388dfc23469b2fa786a06b41377ca739c1b4eac74b4b7ccfe40e5d39a16a97adfdfe9a21aa65c5b257e45945ce4a15ede41f514193eec48118828845cb69a25959f1a31a69ef8d4de8eccaf36ff7226175ab003e02a71d72049dc1cd496928cb3f21fd2447bae0335113a3ab739a713d9e6a6bba9527efbffe801b8e06045f0ece7bcbf2d7a03ff2c7911f70c2adfe56c432b6c5ff76fdcf1682ce6ed5c29a22b7e643a0a05a5c47a5813c173663cc434dc2c7889d81f5c73f60d2befd44f2db7a8d6217b877834305ca2786475848fa478652dcec87b181cc7906bda37",
+	"contenturl": "https://www.youtube.com/embed?list=PLDgm57uVLW4aFBxZNwMrrP_2xL2mCizr1&playnext=1&index=RANDOMNR&start=RANDOMNR&autoplay=1&enablejsapi=1",
 	"youtube": false,
 	"thumbnail": "",
 	"start_time": "0:22",
