@@ -26,4 +26,4 @@ Os anúncios exibidos na Hizens TV são direcionados com base no conteúdo que v
 Essa forma de direcionamento garante que os anúncios sejam mais relevantes para você, sem a necessidade de rastrear ou coletar grandes volumes de dados pessoais. Na Hizens TV, prezamos pela transparência e pelo respeito à privacidade de nossos usuários, enquanto oferecemos conteúdo de qualidade e gratuito.
 ## Download
 Baixe agora a Hizens TV no seu dispositivo.
-Visite a seção de [releases](https://github.com/Vanelton/HizensTV/releases).
+Visite a página de [atualizações](https://github.com/Vanelton/HizensTV/releases).
