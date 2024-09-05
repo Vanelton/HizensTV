@@ -1,0 +1,2 @@
+# Proteção aos Direitos Autorais e Termos de Uso – Hizens TV
+O Hizens TV respeita integralmente os direitos autorais e o trabalho de criação de conteúdo audiovisual. Todas as transmissões exibidas na nossa plataforma são originadas de fontes públicas e acessíveis na web, fornecidas pelas próprias emissoras de TV, rádios e criadores de conteúdo, sem qualquer manipulação ou alteração por parte da Hizens TV. Isso inclui:
