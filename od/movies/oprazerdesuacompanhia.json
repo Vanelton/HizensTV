@@ -1,0 +1,27 @@
+{
+	"content_type": "movie",
+	"id": 0,
+	"name": "O Prazer de sua Companhia",
+	"company": "Metro-Goldwyn-Mayer",
+	"logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Wedding_Daze.jpg",
+	"text": "Comédia",
+	"contenturl": "https://www.youtube.com/embed/DM3NMlwf-E8?autoplay=1&enablejsapi=1",
+	"youtube": false,
+	"thumbnail": "",
+	"start_time": "0:57",
+	"end_time": "11:20",
+	"startsec": 57,
+	"hours": 1,
+	"minutes": 28,
+	"seconds": 48,
+	"restart_time": 10000,
+	"provided_name": "YouTube: Film Plus",
+	"provided_logo": "",
+	"provided_link": "https://www.youtube.com/watch?v=DM3NMlwf-E8"
+	"inchannel_logo": false,
+	"inchannel_logo_url": "hizenslogo.png",
+	"inchannel_logo_x": 1104,
+	"inchannel_logo_y": 654,
+	"inchannel_logo_w": 284,
+	"inchannel_logo_h": 63
+}
